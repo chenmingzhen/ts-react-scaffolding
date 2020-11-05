@@ -1,8 +1,5 @@
 import React,{useEffect} from "react";
 import ReactDom from "react-dom";
-import {_num} from "./src/lodash";
-
-console.log(_num)
 
 class App extends React.Component {
     render() {
